@@ -1,0 +1,110 @@
+.ofertas{
+
+    background-image: url(/recursos/38-388127_s.jpg);
+    background-size: cover;
+    width:100%;
+    height:32%;
+    display:flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    border: 1px solid white;
+    margin-bottom: 70px;
+    -webkit-box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+    box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+
+    
+ }
+
+ 
+  .tituloP-ofertas{
+     width: 100%;
+     height:10%;
+     font-size: 30px;
+     color: black;
+     text-align: center;
+     font-family: 'Luckiest Guy', cursive;
+     text-shadow: 2px 2px 2px #C2213C;
+     margin: auto auto;
+ }
+
+ .titulo-ofertas{
+    background-color: #C2213C;
+    width: 100%;
+    height:8%;
+    padding-top: 5px;
+    font-size: 12px;
+    font-family: 'Red Hat Display';
+    font-weight: bold;
+    color: white;
+    text-align: center;
+}
+ 
+
+ .img-ofertas{
+     width: 100%;
+     height: 25%;
+     text-align: center;
+     margin-top:30px ;
+ }
+ 
+  .d-1of{
+     height: 20%;
+     margin-top: 20px;
+   
+    
+    
+  }
+ 
+  .d-2of{
+     height: 40%;
+     
+ }
+ 
+ 
+
+ .d-1of .texto-1{
+     font-size: 20px;
+     text-align: center;
+     font-family: 'Catamaran', sans-serif;
+     font-weight: 500;
+  }
+ 
+  .d-2of .precio{
+     
+     text-align: center;
+     font-size: 45px;
+     color: #C2213C;
+     font-family: 'Lilita One', sans-serif;
+    
+  }
+ 
+ 
+ .boton-of{
+     height: 10%;
+ }
+ 
+ 
+ .btn-comprar-oferta{
+     width: 70%;
+     height: 10%;
+     margin-top: 24px;
+     padding: 12px 60px;
+     background-color: #C2213C;
+     border-radius: 18px;
+     text-decoration: none;
+     color: white;
+     font-family: 'Red Hat Display';
+     font-weight: 500;
+     -webkit-box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+     box-shadow: 0px 10px 15px -5px rgba(0,0,0,0.65);
+     
+     
+     
+ }
+ 
+  .btn-comprar-oferta:hover{
+     background-color: #4d0518;
+ }
+ 
+ 
